@@ -14,4 +14,5 @@ A Nigerian looking to break into the field of cybersecurity. Google Cybersecurit
 |                                       |                                           |
 |
 
-    
+ ## Certification   
+<a href="https://coursera.org/share/84469517379f56f7ecaf4bf6480d4a3c"><img src="https://img.shields.io/badge/-Google-0072b1?&style=for-the-badge&logo=google&logoColor=red" /></a>
