@@ -9,7 +9,7 @@ A Nigerian looking to break into the field of cybersecurity. Google Cybersecurit
 
 | Skill                                 |Associated Project                         |                 
 |---------------------------------------|-------------------------------------------|
-| Python Programing                     | [Update a file through a Python algorithm Portfolio activity.pdf](https://github.com/user-attachments/files/16794583/Update.a.file.through.a.Python.algorithm.Portfolio.activity.pdf)
+| Python Programing                     | <a href="https://github.com/Victor-Oyigeya">Updating-a-file-through-a-Python-algorithm</a>
 |                                       |                                           |
 |                                       |                                           |
 |
