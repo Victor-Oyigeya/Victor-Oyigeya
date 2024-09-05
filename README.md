@@ -9,8 +9,8 @@ A Nigerian looking to break into the field of cybersecurity. Google Cybersecurit
 
 | Skill                                 |Associated Project                         |                 
 |---------------------------------------|-------------------------------------------|
-| Python Programing                     | <a href="https://github.com/Victor-Oyigeya/Updating-a-file-through-a-Python-algorithm">Updating a file through a Python algorithm</a>
-|                                       |                                           |
+| Python Programing                     | <a href="https://github.com/Victor-Oyigeya/Updating-a-file-through-a-Python-algorithm">Updating a file through a Python algorithm</a> |
+| Linux CLI                             | <a href="https://github.com/Victor-Oyigeya/Manage-file-permissions-using-Linux-commands">Manage file permissions using Linux commands|
 |                                       |                                           |
 |
 
