@@ -3,10 +3,9 @@
 
 [Brief Introduction]
 
-A Nigerian looking to break into the field of cybersecurity. Google Cybersecurity Certified. Experienced in Python, SQL and dedicated to learning. 
-
+I am cybersecurity ethusiast who just completed the Google Cybersecurity program, with strong foundational knowledge on different security policies and frameworks, how to use playbooks to respond to incidents, and a firm understanding of the processes involved in creating tickets and escalalting the security incident. Through the course activities on the Google Cybersecurity program, i have been able to create a Vulnerability Assessment report using the NIST SP 800-30 to guide the risk analysis, applied the NIST CSF framework to an incident report analysis, updated file permissions in Linux and also experimented with programming languages, such as SQL and Python.
 ## Skills
-
+s
 | Skill                                 |Associated Project                         |                 
 |---------------------------------------|-------------------------------------------|
 | Python Programing                     | <a href="https://github.com/Victor-Oyigeya/Updating-a-file-through-a-Python-algorithm">Updating a file through a Python algorithm</a>|
@@ -15,3 +14,10 @@ A Nigerian looking to break into the field of cybersecurity. Google Cybersecurit
 
  ## Certification   
 <a href="https://coursera.org/share/84469517379f56f7ecaf4bf6480d4a3c"><img src="https://img.shields.io/badge/-Google-0F9D58?&style=for-the-badge&logo=google&logoColor=white"  /></a>
+## Experience
+
+<b>May 2018 - July 2020</b>
+### Opera News , Remote - News Hub Creator
+
+- Approved as one of many writers to write articles for the company 
+- Was tasked to publish at least two original articles everyday [my focus was on sports] 
