@@ -3,7 +3,7 @@
 
 [Brief Introduction]
 
-I am cybersecurity ethusiast who just completed the Google Cybersecurity program, with strong foundational knowledge on different security policies and frameworks, how to use playbooks to respond to incidents, and a firm understanding of the processes involved in creating tickets and escalalting the security incident. Through the course activities on the Google Cybersecurity program, I have been able to create a Vulnerability Assessment report, using the NIST SP 800-30 to guide the risk analysis, applied the NIST CSF framework to an incident report analysis, updated file permissions in Linux and also experimented with programming languages, such as SQL and Python.
+I am cybersecurity ethusiast who just completed the Google Cybersecurity program, with strong foundational knowledge on different security policies and frameworks, how to use playbooks to respond to incidents, and a firm understanding of the processes involved in creating tickets and escalalting the security incident. Through the course activities on the Google Cybersecurity program, I have been able to create a Vulnerability Assessment report, using the NIST SP 800-30 to guide the risk analysis, applied the NIST CSF framework to an incident report analysis, managed file permissions in Linux Bash shell and also experimented with programming languages, such as SQL and Python.
 ## Skills
 
 | Skill                                 |Associated Project                         |                 
