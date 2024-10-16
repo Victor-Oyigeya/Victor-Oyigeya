@@ -16,8 +16,11 @@ I am cybersecurity ethusiast who just completed the Google Cybersecurity program
 <a href="https://coursera.org/share/84469517379f56f7ecaf4bf6480d4a3c"><img src="https://img.shields.io/badge/-Google-0F9D58?&style=for-the-badge&logo=google&logoColor=white"  /></a>
 ## Experience
 
-<b>May 2018 - July 2020</b>
-### Opera News , Remote - News Hub Creator
+<b>April 2018 - September 2020</b>
+### Content Writer (Sports Focus), Opera News - Remote 
 
-- Approved as one of many writers to write articles for the company 
-- Was tasked to publish at least two original articles everyday [my focus was on sports] 
+• Consistently published a minimum of two original articles daily, with a primary focus on sports content.
+
+• Demonstrated strong research and writing skills to create high-quality, timely, and relevant articles that resonated with the audience.
+
+• Successfully adhered to editorial guidelines and deadlines, contributing to the platform’s growth and readership. 
