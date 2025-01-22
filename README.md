@@ -11,6 +11,15 @@ I am cybersecurity ethusiast who just completed the Google Cybersecurity program
 | Python Programing                     | <a href="https://github.com/Victor-Oyigeya/Updating-a-file-through-a-Python-algorithm">Updating a file through a Python algorithm</a>|
 | Linux CLI                             | <a href="https://github.com/Victor-Oyigeya/Manage-file-permissions-using-Linux-commands">Manage file permissions using Linux commands</a>|
 | SQL                                   |  <a href="https://github.com/Victor-Oyigeya/Using-SQL-to-investigate-a-security-issue">Using SQL to investigate a security issue</a>|
+| Cryptography                          |                         |
+
+## Other Projects
+- Controls and Compliance checklist
+- Created an incident report on a network traffic analysis
+- Documented security events on an Incident Handler's Journal
+- Used a playbook to respond to a phishing attempt
+- Created a Vulnerability Assessment Report
+- Wrote an Access Controls worksheet
 
  ## Certification   
 <a href="https://coursera.org/share/84469517379f56f7ecaf4bf6480d4a3c"><img src="https://img.shields.io/badge/-Google-0F9D58?&style=for-the-badge&logo=google&logoColor=white"  /></a>
