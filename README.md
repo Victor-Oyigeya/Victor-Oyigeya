@@ -11,7 +11,7 @@ I am cybersecurity ethusiast who just completed the Google Cybersecurity program
 | Python Programing                     | <a href="https://github.com/Victor-Oyigeya/Updating-a-file-through-a-Python-algorithm">Updating a file through a Python algorithm</a>|
 | Linux CLI                             | <a href="https://github.com/Victor-Oyigeya/Manage-file-permissions-using-Linux-commands">Manage file permissions using Linux commands</a>|
 | SQL                                   |  <a href="https://github.com/Victor-Oyigeya/Using-SQL-to-investigate-a-security-issue">Using SQL to investigate a security issue</a>|
-| Cryptography                          |                         |
+| Cryptography                          |   <a href="https://github.com/Victor-Oyigeya/Encryption-Program">Encryption Program</a> |
 
 ## Other Projects
 - Controls and Compliance checklist
